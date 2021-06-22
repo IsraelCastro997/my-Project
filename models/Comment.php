@@ -79,7 +79,7 @@
 					$sql = "INSERT INTO favoriteproject(idPostProject, idStudent, createdAt) VALUES
 					($this->postProject, $this->idStudent, '$this->createdAt')";
 					$sql2 = "UPDATE postproject SET likes = likes + 1 WHERE idPostProject = $this->postProject";
-					if($res = $con->query($sql)){
+					if($res = $con->query($sql) && $con->query($sql2)){
 						$con->close();
 						header('location: ../web/detalles-proyecto.php?id='.$this->postProject);
 					}else{
