@@ -1,0 +1,9 @@
+Asunto: NUEVA POSTULACION - MY-PROJECT
+<h1><strong>Hola [[Nombre del estudiante]]</strong></h1>
+<p>Nueva postulacion&nbsp;&#128512; en tu proyecto [[Nombre del Proyecto]]</p>
+<p>Por favor ingresa [[URL Activa]] para ver m&aacute;s detalles del la postulacion.</p>
+<p>&nbsp;</p>
+<p>--</p>
+<p>Saludos coordiales &#129302; de Bot-Notification-Mail&nbsp;<strong>my-project.</strong></p>
+<p><strong><img src="https://accessdc.assetel.com/my-project/web/images/brand.png" alt="" width="477" height="287" /></strong></p>
+<p>&nbsp;</p>
